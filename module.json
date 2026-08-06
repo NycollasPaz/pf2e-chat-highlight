@@ -1,0 +1,21 @@
+{
+  "id": "pf2e-chat-highlight",
+  "title": "PF2e Chat Highlight",
+  "description": "Destaca links clicáveis e arrastáveis do chat do Pathfinder 2e.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Nycollas"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/chat-highlight.js"
+  ],
+  "styles": [
+    "styles/chat-highlight.css"
+  ]
+}
