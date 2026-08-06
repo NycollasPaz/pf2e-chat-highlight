@@ -1,8 +1,8 @@
-.pf2e-chat-highlight {
-    background: #3b82f6 !important;
-    color: white !important;
-    border: 2px solid #2563eb !important;
+a.content-link.pf2e-chat-highlight {
+   background-color: rgba(218, 165, 32, 0.25);
+border: 1px solid rgba(218, 165, 32, 0.8);
     border-radius: 6px !important;
     padding: 3px 8px !important;
     font-weight: bold !important;
+    text-decoration: none !important;
 }
