@@ -17,5 +17,6 @@
   ],
   "styles": [
     "styles/chat-highlight.css"
-  ]
+  ],
+  "download": "https://github.com/NycollasPaz/pf2e-chat-highlight/archive/refs/heads/main.zip"
 }
